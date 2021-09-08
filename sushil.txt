@@ -1,0 +1,2 @@
+insert sushil
+new insert data
